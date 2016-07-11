@@ -1,0 +1,3948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+		<dict>
+			<key>description</key>
+			<string>水稻种植技术-水稻品种 稻种处理 种植技术 高产栽培 早稻种植 晚稻种植 杂交水稻 肥水管理 稻病防治 稻虫防治 稻田除草 稻田种养 收</string>
+			<key>id</key>
+			<integer>2</integer>
+			<key>keywords</key>
+			<string>水稻的种植方法 水稻详细的资料 最新的水稻种植技术.</string>
+			<key>name</key>
+			<string>水稻种植</string>
+			<key>seq</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>水稻种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>养鸡技术_鸡养殖技术-家禽养殖：相关养鸡技术，养殖疾病防治，养鸡最新技术分享与服务，做最好的鸡养殖技术中心。</string>
+			<key>id</key>
+			<integer>24</integer>
+			<key>keywords</key>
+			<string>养鸡技术 鸡养殖技术 养鸡技术信息 家禽养殖技术</string>
+			<key>name</key>
+			<string>养鸡技术</string>
+			<key>seq</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>23</integer>
+			<key>title</key>
+			<string>养鸡技术_鸡养殖技术-家禽养殖</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>白菜种植技术-蔬菜种植：白菜栽培技术，白菜栽培技术研究，白菜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>37</integer>
+			<key>keywords</key>
+			<string>白菜种植技术 分享白菜种植信息与种植知识 白菜种植技巧 白菜栽培技术</string>
+			<key>name</key>
+			<string>白菜种植</string>
+			<key>seq</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>白菜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>玫瑰花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>179</integer>
+			<key>keywords</key>
+			<string>玫瑰花卉栽培技术 玫瑰种植栽培 玫瑰卉栽培技术大全 </string>
+			<key>name</key>
+			<string>玫瑰栽培</string>
+			<key>seq</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>玫瑰栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>银杏培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>218</integer>
+			<key>keywords</key>
+			<string>银杏培养栽培技术 银杏培养 银杏栽培技术大全 栽培银杏相关技术</string>
+			<key>name</key>
+			<string>银杏栽培</string>
+			<key>seq</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>银杏培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鱼养殖技术-水产渔业 鱼养殖技术 相关鱼的技术知识 养鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>117</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鱼、虾、海鲜相关养殖</string>
+			<key>name</key>
+			<string>鱼养殖</string>
+			<key>seq</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>	
+鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>苹果种植技术-水果栽培 苹果相关的管理、保存、运输技术知识 分享苹果种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>70</integer>
+			<key>keywords</key>
+			<string>苹果栽培 苹果种植 相关苹果管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>苹果种植</string>
+			<key>seq</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>苹果种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>核桃种植技术-水果栽培 核桃相关的管理、保存、运输技术知识 分享核桃种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>75</integer>
+			<key>keywords</key>
+			<string>核桃栽培 核桃种植 相关核桃管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>核桃种植</string>
+			<key>seq</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>173</integer>
+			<key>title</key>
+			<string>	
+核桃种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>养羊技术_羊养殖技术-畜牧养殖：相关养羊技术，养殖疾病防治，养羊最新技术分享与服务，做最好的羊养殖技术中心。</string>
+			<key>id</key>
+			<integer>31</integer>
+			<key>keywords</key>
+			<string>养羊技术 羊养殖技术 养羊技术信息 畜牧养殖技术</string>
+			<key>name</key>
+			<string>养羊技术</string>
+			<key>seq</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>30</integer>
+			<key>title</key>
+			<string>养羊技术_羊养殖技术-畜牧养殖</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>梨子种植技术-水果栽培 梨子相关的管理、保存、运输技术知识 分享梨子种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>71</integer>
+			<key>keywords</key>
+			<string>梨子栽培 梨子种植 相关梨子管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>梨子种植</string>
+			<key>seq</key>
+			<integer>2</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>梨子种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>养鸭技术_鸭养殖技术-家禽养殖：相关养鸭技术，养殖疾病防治，养鸡最新技术分享与服务，做最好的鸭养殖技术中心。</string>
+			<key>id</key>
+			<integer>25</integer>
+			<key>keywords</key>
+			<string>养鸭技术 鸭养殖技术 养鸭技术信息 家禽养殖技术</string>
+			<key>name</key>
+			<string>养鸭技术</string>
+			<key>seq</key>
+			<integer>2</integer>
+			<key>techclass</key>
+			<integer>23</integer>
+			<key>title</key>
+			<string>养鸭技术_鸭养殖技术-家禽养殖</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>水稻种植技术-粮食种植：小麦品种 麦种处理 种植技术 高产种植 春麦种植 冬麦种植 肥水管理 麦病防治 麦虫防治 麦田除草 生态种植  </string>
+			<key>id</key>
+			<integer>3</integer>
+			<key>keywords</key>
+			<string>小麦的种植方法、小麦详细的资料、小麦种植技术</string>
+			<key>name</key>
+			<string>小麦种植</string>
+			<key>seq</key>
+			<integer>2</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>小麦种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>养牛技术_牛养殖技术-畜牧养殖：相关养牛技术，养殖疾病防治，养牛最新技术分享与服务，做最好的牛养殖技术中心。</string>
+			<key>id</key>
+			<integer>33</integer>
+			<key>keywords</key>
+			<string>养牛技术 牛养殖技术 养牛技术信息 畜牧养殖技术</string>
+			<key>name</key>
+			<string>养牛技术</string>
+			<key>seq</key>
+			<integer>2</integer>
+			<key>techclass</key>
+			<integer>30</integer>
+			<key>title</key>
+			<string>养牛技术_牛养殖技术-畜牧养殖</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>青鱼养殖技术-水产渔业 青鱼养殖技术 相关青鱼的技术知识 养青鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>118</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 青鱼相关养殖技术 青鱼技术知识</string>
+			<key>name</key>
+			<string>青鱼养殖</string>
+			<key>seq</key>
+			<integer>2</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>	
+青鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>松树培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>219</integer>
+			<key>keywords</key>
+			<string>松树培养栽培技术 松树培养 松树栽培技术大全 栽培松树相关技术</string>
+			<key>name</key>
+			<string>松树栽培</string>
+			<key>seq</key>
+			<integer>2</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>松树培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>香菇种植技术-蔬菜种植：香菇栽培技术，香菇栽培技术研究，香菇种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>38</integer>
+			<key>keywords</key>
+			<string>香菇种植技术 分享香菇种植信息与种植知识 香菇种植技巧 香菇栽培技术</string>
+			<key>name</key>
+			<string>香菇种植</string>
+			<key>seq</key>
+			<integer>2</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>香菇种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>牡丹花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>180</integer>
+			<key>keywords</key>
+			<string>牡丹花卉栽培技术 牡丹花种植栽培 牡丹花栽培技术大全 </string>
+			<key>name</key>
+			<string>牡丹栽培</string>
+			<key>seq</key>
+			<integer>2</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>牡丹栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+油菜种植技术-粮油种植 油菜相关的管理、保存、运输技术知识 分享油菜种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>174</integer>
+			<key>keywords</key>
+			<string>	
+油菜栽培 油菜种植 相关油菜管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>油菜种植</string>
+			<key>seq</key>
+			<integer>2</integer>
+			<key>techclass</key>
+			<integer>173</integer>
+			<key>title</key>
+			<string>油菜种植技术-粮油种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>龙虾养殖技术-水产渔业 龙虾养殖技术 相关龙虾的技术知识 养龙虾的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>119</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 龙虾相关养殖技术 龙虾技术知识</string>
+			<key>name</key>
+			<string>龙虾养殖</string>
+			<key>seq</key>
+			<integer>3</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>	
+龙虾养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>杜鹃花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>181</integer>
+			<key>keywords</key>
+			<string>杜鹃花卉栽培技术 杜鹃花种植栽培 杜鹃花栽培技术大全 </string>
+			<key>name</key>
+			<string>杜鹃栽培</string>
+			<key>seq</key>
+			<integer>3</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>杜鹃栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>坚果种植技术-水果栽培 坚果相关的管理、保存、运输技术知识 分享坚果种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>72</integer>
+			<key>keywords</key>
+			<string>坚果栽培 坚果种植 相关坚果管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>坚果种植</string>
+			<key>seq</key>
+			<integer>3</integer>
+			<key>techclass</key>
+			<integer>173</integer>
+			<key>title</key>
+			<string>坚果种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>养猪技术_猪养殖技术-畜牧养殖：相关养猪技术，养殖疾病防治，养猪最新技术分享与服务，做最好的猪养殖技术中心。</string>
+			<key>id</key>
+			<integer>32</integer>
+			<key>keywords</key>
+			<string>养猪技术 猪养殖技术 养猪技术信息 畜牧养殖技术</string>
+			<key>name</key>
+			<string>养猪技术</string>
+			<key>seq</key>
+			<integer>3</integer>
+			<key>techclass</key>
+			<integer>30</integer>
+			<key>title</key>
+			<string>养猪技术_猪养殖技术-畜牧养殖</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+花生种植技术-粮油种植 花生相关的管理、保存、运输技术知识 分享花生种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>175</integer>
+			<key>keywords</key>
+			<string>	
+花生栽培 花生种植 相关花生管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>花生种植</string>
+			<key>seq</key>
+			<integer>3</integer>
+			<key>techclass</key>
+			<integer>173</integer>
+			<key>title</key>
+			<string>花生种植技术-粮油种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>大葱种植技术-蔬菜种植：大葱栽培技术，大葱栽培技术研究，大葱种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>39</integer>
+			<key>keywords</key>
+			<string>大葱种植技术 分享大葱种植信息与种植知识 大葱种植技巧 大葱栽培技术</string>
+			<key>name</key>
+			<string>大葱种植</string>
+			<key>seq</key>
+			<integer>3</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>大葱种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>玉米种植技术-粮食种植：  玉米品种 种植技术 高产种植 甜玉米 黑玉米 夏玉米 秋玉米 杂交玉米 肥水管理 玉米疾病 玉米虫害</string>
+			<key>id</key>
+			<integer>4</integer>
+			<key>keywords</key>
+			<string>玉米的种植方法、玉米详细的资料、玉米种植技术</string>
+			<key>name</key>
+			<string>玉米种植</string>
+			<key>seq</key>
+			<integer>3</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>玉米种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>养鹅技术_鹅养殖技术-家禽养殖：相关养鹅技术，养殖疾病防治，养鸡最新技术分享与服务，做最好的鹅养殖技术中心。</string>
+			<key>id</key>
+			<integer>26</integer>
+			<key>keywords</key>
+			<string>养鹅技术 鹅养殖技术 养鹅技术信息 家禽养殖技术</string>
+			<key>name</key>
+			<string>养鹅技术</string>
+			<key>seq</key>
+			<integer>3</integer>
+			<key>techclass</key>
+			<integer>23</integer>
+			<key>title</key>
+			<string>养鹅技术_鹅养殖技术-家禽养殖</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>黑麦草培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>220</integer>
+			<key>keywords</key>
+			<string>黑麦草培养栽培技术 黑麦草培养 黑麦草栽培技术大全 栽培黑麦草相关技术</string>
+			<key>name</key>
+			<string>黑麦草栽培</string>
+			<key>seq</key>
+			<integer>3</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>黑麦草培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>养鸽技术_鸽养殖技术-家禽养殖：相关养鸽技术，养殖疾病防治，养鸡最新技术分享与服务，做最好的鸽养殖技术中心。</string>
+			<key>id</key>
+			<integer>27</integer>
+			<key>keywords</key>
+			<string>养鸽技术 鸽养殖技术 养鸽技术信息 家禽养殖技术</string>
+			<key>name</key>
+			<string>养鸽技术</string>
+			<key>seq</key>
+			<integer>4</integer>
+			<key>techclass</key>
+			<integer>23</integer>
+			<key>title</key>
+			<string>养鸽技术_鸽养殖技术-家禽养殖</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>高粱种植技术-粮食种植 高粱栽培 、高粱增产 高粱栽培方法、高粱详细的资料、高粱种植技术</string>
+			<key>id</key>
+			<integer>5</integer>
+			<key>keywords</key>
+			<string>高粱栽培方法、高粱详细的资料、高粱种植技术</string>
+			<key>name</key>
+			<string>高粱栽培</string>
+			<key>seq</key>
+			<integer>4</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>高粱栽培技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>洋葱种植技术-蔬菜种植：洋葱栽培技术，洋葱栽培技术研究，洋葱种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>40</integer>
+			<key>keywords</key>
+			<string>洋葱种植技术 分享洋葱种植信息与种植知识 洋葱种植技巧 洋葱栽培技术</string>
+			<key>name</key>
+			<string>洋葱种植</string>
+			<key>seq</key>
+			<integer>4</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>洋葱种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>狼尾草培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>221</integer>
+			<key>keywords</key>
+			<string>狼尾草培养栽培技术 狼尾草培养 狼尾草栽培技术大全 栽培黑麦草相关技术</string>
+			<key>name</key>
+			<string>狼尾草栽培</string>
+			<key>seq</key>
+			<integer>4</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>狼尾草培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>河蚌养殖技术-水产渔业 河蚌养殖技术 相关河蚌的技术知识 养河蚌的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>120</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 河蚌相关养殖技术 河蚌技术知识</string>
+			<key>name</key>
+			<string>河蚌养殖</string>
+			<key>seq</key>
+			<integer>4</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>	
+河蚌养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>梅花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>182</integer>
+			<key>keywords</key>
+			<string>梅花花卉栽培技术 梅花种植栽培 梅花栽培技术大全 </string>
+			<key>name</key>
+			<string>梅花栽培</string>
+			<key>seq</key>
+			<integer>4</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>梅花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>养兔技术_兔养殖技术-畜牧养殖：相关养兔技术，养殖疾病防治，养兔最新技术分享与服务，做最好的兔养殖技术中心。</string>
+			<key>id</key>
+			<integer>34</integer>
+			<key>keywords</key>
+			<string>养兔技术 牛养殖技术 养兔技术信息 畜牧养殖技术</string>
+			<key>name</key>
+			<string>养兔技术</string>
+			<key>seq</key>
+			<integer>4</integer>
+			<key>techclass</key>
+			<integer>30</integer>
+			<key>title</key>
+			<string>养兔技术_兔养殖技术-畜牧养殖</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>葡萄种植技术-水果栽培 葡萄相关的管理、保存、运输技术知识 分享葡萄种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>73</integer>
+			<key>keywords</key>
+			<string>葡萄栽培 葡萄种植 相关葡萄管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>葡萄种植</string>
+			<key>seq</key>
+			<integer>4</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>葡萄种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+芝麻种植技术-粮油种植 芝麻相关的管理、保存、运输技术知识 分享芝麻种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>176</integer>
+			<key>keywords</key>
+			<string>	
+芝麻栽培 芝麻种植 相关芝麻管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>芝麻种植</string>
+			<key>seq</key>
+			<integer>4</integer>
+			<key>techclass</key>
+			<integer>173</integer>
+			<key>title</key>
+			<string>芝麻种植技术-粮油种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>土豆种植技术-蔬菜种植：土豆栽培技术，土豆栽培技术研究，土豆种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>41</integer>
+			<key>keywords</key>
+			<string>土豆种植技术 分享土豆种植信息与种植知识 土豆种植技巧 土豆栽培技术</string>
+			<key>name</key>
+			<string>土豆种植</string>
+			<key>seq</key>
+			<integer>5</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>土豆种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+橄榄种植技术-坚果种植 橄榄相关的管理、保存、运输技术知识 分享橄榄种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>177</integer>
+			<key>keywords</key>
+			<string>	
+橄榄栽培 橄榄种植 相关橄榄管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>橄榄种植</string>
+			<key>seq</key>
+			<integer>5</integer>
+			<key>techclass</key>
+			<integer>173</integer>
+			<key>title</key>
+			<string>橄榄种植技术-坚果种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>河蟹养殖技术-水产渔业 河蟹养殖技术 相关河蟹的技术知识 养河蟹的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>121</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 河蟹相关养殖技术 河蟹技术知识</string>
+			<key>name</key>
+			<string>河蟹养殖</string>
+			<key>seq</key>
+			<integer>5</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>河蟹养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>桂花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>183</integer>
+			<key>keywords</key>
+			<string>桂花花卉栽培技术 桂花种植栽培 桂花栽培技术大全 </string>
+			<key>name</key>
+			<string>桂花栽培</string>
+			<key>seq</key>
+			<integer>5</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>桂花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>苜蓿培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>222</integer>
+			<key>keywords</key>
+			<string>苜蓿培养栽培技术 苜蓿培养 苜蓿栽培技术大全 栽培苜蓿相关技术</string>
+			<key>name</key>
+			<string>苜蓿栽培</string>
+			<key>seq</key>
+			<integer>5</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>	
+苜蓿培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>黄豆种植技术-粮食种植 黄豆栽培 、黄豆增产 </string>
+			<key>id</key>
+			<integer>6</integer>
+			<key>keywords</key>
+			<string>黄豆种植方法、黄豆详细的资料、黄豆种植技术</string>
+			<key>name</key>
+			<string>黄豆种植</string>
+			<key>seq</key>
+			<integer>5</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>黄豆种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>养狗技术_狗养殖技术-畜牧养殖：相关养狗技术，养殖疾病防治，养狗最新技术分享与服务，做最好的狗养殖技术中心。</string>
+			<key>id</key>
+			<integer>35</integer>
+			<key>keywords</key>
+			<string>养狗技术 狗养殖技术 养狗技术信息 畜牧养殖技术</string>
+			<key>name</key>
+			<string>养狗技术</string>
+			<key>seq</key>
+			<integer>5</integer>
+			<key>techclass</key>
+			<integer>30</integer>
+			<key>title</key>
+			<string>养狗技术_狗养殖技术-畜牧养殖</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>板栗种植技术-水果栽培 板栗相关的管理、保存、运输技术知识 分享板栗种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>74</integer>
+			<key>keywords</key>
+			<string>板栗栽培 板栗种植 相关板栗管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>板栗种植</string>
+			<key>seq</key>
+			<integer>5</integer>
+			<key>techclass</key>
+			<integer>173</integer>
+			<key>title</key>
+			<string>	
+板栗种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>养鸵鸟技术_鸵鸟养殖技术-家禽养殖：相关养鸵鸟技术，养殖疾病防治，养鸡最新技术分享与服务，做最好的鸵鸟养殖技术中心。</string>
+			<key>id</key>
+			<integer>28</integer>
+			<key>keywords</key>
+			<string>养鸵鸟技术 鸵鸟养殖技术 养鸵鸟技术信息 家禽养殖技术</string>
+			<key>name</key>
+			<string>养鸵鸟技术</string>
+			<key>seq</key>
+			<integer>5</integer>
+			<key>techclass</key>
+			<integer>23</integer>
+			<key>title</key>
+			<string>养鸵鸟技术_鸵鸟养殖技术-家禽养殖</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>绿豆种植技术-粮食种植 绿豆栽培 、绿豆增产 </string>
+			<key>id</key>
+			<integer>7</integer>
+			<key>keywords</key>
+			<string>绿豆种植方法、绿豆详细的资料、绿豆种植技术</string>
+			<key>name</key>
+			<string>绿豆种植</string>
+			<key>seq</key>
+			<integer>6</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>绿豆种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>海蜇养殖技术-水产渔业 海蜇养殖技术 相关海蜇的技术知识 养海蜇的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>122</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 海蜇相关养殖技术 海蜇技术知识</string>
+			<key>name</key>
+			<string>海蜇养殖</string>
+			<key>seq</key>
+			<integer>6</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>海蜇养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>水葫芦花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>184</integer>
+			<key>keywords</key>
+			<string>水葫芦花卉栽培技术 水葫芦种植栽培 水葫芦栽培技术大全 </string>
+			<key>name</key>
+			<string>水葫芦栽培</string>
+			<key>seq</key>
+			<integer>6</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>水葫芦栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>冬青培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>223</integer>
+			<key>keywords</key>
+			<string>冬青培养栽培技术 冬青培养 冬青栽培技术大全 栽培冬青相关技术</string>
+			<key>name</key>
+			<string>冬青栽培</string>
+			<key>seq</key>
+			<integer>6</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>	
+冬青培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>养孔雀技术_孔雀养殖技术-家禽养殖：相关养孔雀技术，养殖疾病防治，养鸡最新技术分享与服务，做最好的孔雀养殖技术中心。</string>
+			<key>id</key>
+			<integer>29</integer>
+			<key>keywords</key>
+			<string>养孔雀技术 孔雀养殖技术 养孔雀技术信息 家禽养殖技术</string>
+			<key>name</key>
+			<string>养孔雀技术</string>
+			<key>seq</key>
+			<integer>6</integer>
+			<key>techclass</key>
+			<integer>23</integer>
+			<key>title</key>
+			<string>养孔雀技术_孔雀养殖技术-家禽养殖</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>花椒种植技术-蔬菜种植：花椒栽培技术，花椒栽培技术研究，花椒种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>42</integer>
+			<key>keywords</key>
+			<string>花椒种植技术 分享花椒种植信息与种植知识 花椒种植技巧 花椒栽培技术</string>
+			<key>name</key>
+			<string>花椒种植</string>
+			<key>seq</key>
+			<integer>6</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>花椒种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>三叶草培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>224</integer>
+			<key>keywords</key>
+			<string>三叶草培养栽培技术 三叶草培养 三叶草栽培技术大全 栽培三叶草相关技术</string>
+			<key>name</key>
+			<string>三叶草栽培</string>
+			<key>seq</key>
+			<integer>7</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>	
+三叶草培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>草莓种植技术-水果栽培 草莓相关的管理、保存、运输技术知识 分享草莓种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>76</integer>
+			<key>keywords</key>
+			<string>草莓栽培 草莓种植 相关草莓管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>草莓种植</string>
+			<key>seq</key>
+			<integer>7</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+草莓种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>红薯种植技术-粮食种植 红薯栽培 、红薯增产 </string>
+			<key>id</key>
+			<integer>8</integer>
+			<key>keywords</key>
+			<string>红薯种植方法、红薯详细的资料、红薯种植技术</string>
+			<key>name</key>
+			<string>红薯种植</string>
+			<key>seq</key>
+			<integer>7</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>红薯种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>生姜种植技术-蔬菜种植：生姜栽培技术，生姜栽培技术研究，生姜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>43</integer>
+			<key>keywords</key>
+			<string>生姜种植技术 分享生姜种植信息与种植知识 生姜种植技巧 生姜栽培技术</string>
+			<key>name</key>
+			<string>生姜种植</string>
+			<key>seq</key>
+			<integer>7</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>生姜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>水仙花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>185</integer>
+			<key>keywords</key>
+			<string>水仙花花卉栽培技术 水仙花种植栽培 水仙花栽培技术大全 </string>
+			<key>name</key>
+			<string>水仙花栽培</string>
+			<key>seq</key>
+			<integer>7</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>水仙花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>牡蛎养殖技术-水产渔业 牡蛎养殖技术 相关牡蛎的技术知识 养牡蛎的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>123</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 牡蛎相关养殖技术 牡蛎技术知识</string>
+			<key>name</key>
+			<string>牡蛎养殖</string>
+			<key>seq</key>
+			<integer>7</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>牡蛎养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>  大豆种植技术-粮食种植 大豆栽培 、大豆增产 </string>
+			<key>id</key>
+			<integer>9</integer>
+			<key>keywords</key>
+			<string>大豆种植方法、大豆详细的资料、大豆种植技术</string>
+			<key>name</key>
+			<string>大豆种植</string>
+			<key>seq</key>
+			<integer>8</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>大豆种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>槐树培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>225</integer>
+			<key>keywords</key>
+			<string>槐树培养栽培技术 槐树培养 槐树栽培技术大全 栽培槐树相关技术</string>
+			<key>name</key>
+			<string>槐树栽培</string>
+			<key>seq</key>
+			<integer>8</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>	
+槐树培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>香蕉种植技术-水果栽培 香蕉相关的管理、保存、运输技术知识 分享香蕉种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>77</integer>
+			<key>keywords</key>
+			<string>香蕉栽培 香蕉种植 相关香蕉管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>香蕉种植</string>
+			<key>seq</key>
+			<integer>8</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+香蕉种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>青虾养殖技术-水产渔业 青虾养殖技术 相关青虾的技术知识 养青虾的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>124</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 青虾相关养殖技术 青虾技术知识</string>
+			<key>name</key>
+			<string>青虾养殖</string>
+			<key>seq</key>
+			<integer>8</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>青虾养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>蘑菇种植技术-蔬菜种植：蘑菇栽培技术，蘑菇栽培技术研究，蘑菇种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>44</integer>
+			<key>keywords</key>
+			<string>蘑菇种植技术 分享蘑菇种植信息与种植知识 蘑菇种植技巧 蘑菇栽培技术</string>
+			<key>name</key>
+			<string>蘑菇种植</string>
+			<key>seq</key>
+			<integer>8</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>蘑菇种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>兰花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>186</integer>
+			<key>keywords</key>
+			<string>兰花花卉栽培技术 兰花种植栽培 兰花栽培技术大全 </string>
+			<key>name</key>
+			<string>兰花栽培</string>
+			<key>seq</key>
+			<integer>8</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>兰花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>毛蟹养殖技术-水产渔业 毛蟹养殖技术 相关毛蟹的技术知识 养毛蟹的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>125</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 毛蟹相关养殖技术 毛蟹技术知识</string>
+			<key>name</key>
+			<string>毛蟹养殖</string>
+			<key>seq</key>
+			<integer>9</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>	
+毛蟹养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>  大麦种植技术-粮食种植：大麦栽培技术，汇集大麦种植的所有相关资料，包含大麦栽培、管理、病虫害防治等内容，帮助您快速学习和掌握最新的大麦种植技术。</string>
+			<key>id</key>
+			<integer>10</integer>
+			<key>keywords</key>
+			<string>大麦的种植方法 大麦详细的资料 最新的大麦种植技术.</string>
+			<key>name</key>
+			<string>大麦种植</string>
+			<key>seq</key>
+			<integer>9</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>大麦种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>无花果种植技术-水果栽培 无花果相关的管理、保存、运输技术知识 分享无花果种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>78</integer>
+			<key>keywords</key>
+			<string>无花果栽培 无花果种植 相关无花果管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>无花果种植</string>
+			<key>seq</key>
+			<integer>9</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>无花果种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>黄杨培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>226</integer>
+			<key>keywords</key>
+			<string>黄杨培养栽培技术 黄杨培养 黄杨栽培技术大全 栽培黄杨相关技术</string>
+			<key>name</key>
+			<string>黄杨栽培</string>
+			<key>seq</key>
+			<integer>9</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>黄杨培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>茄子种植技术-蔬菜种植：茄子栽培技术，茄子栽培技术研究，茄子种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>45</integer>
+			<key>keywords</key>
+			<string>	
+茄子种植技术 分享茄子种植信息与种植知识 茄子种植技巧 茄子栽培技术</string>
+			<key>name</key>
+			<string>茄子种植</string>
+			<key>seq</key>
+			<integer>9</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>茄子种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>君子兰栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>187</integer>
+			<key>keywords</key>
+			<string>	
+君子兰花卉栽培技术 君子兰种植栽培 君子兰栽培技术大全 </string>
+			<key>name</key>
+			<string>君子兰栽培</string>
+			<key>seq</key>
+			<integer>9</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>君子兰栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>苏丹草培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>227</integer>
+			<key>keywords</key>
+			<string>苏丹草培养栽培技术 苏丹草培养 苏丹草栽培技术大全 栽培苏丹草相关技术</string>
+			<key>name</key>
+			<string>苏丹草栽培</string>
+			<key>seq</key>
+			<integer>10</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>苏丹草培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>菊花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>188</integer>
+			<key>keywords</key>
+			<string>	
+菊花花卉栽培技术 菊花种植栽培 菊花栽培技术大全 </string>
+			<key>name</key>
+			<string>菊花栽培</string>
+			<key>seq</key>
+			<integer>10</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>菊花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>草鱼养殖技术-水产渔业 草鱼养殖技术 相关草鱼的技术知识 养草鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>126</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 草鱼相关养殖技术 草鱼技术知识</string>
+			<key>name</key>
+			<string>草鱼养殖</string>
+			<key>seq</key>
+			<integer>10</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>	
+草鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>西瓜种植技术-水果栽培 西瓜相关的管理、保存、运输技术知识 分享西瓜种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>79</integer>
+			<key>keywords</key>
+			<string>西瓜栽培 西瓜种植 相关西瓜管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>西瓜种植</string>
+			<key>seq</key>
+			<integer>10</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>西瓜种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>生菜种植技术-蔬菜种植：生菜栽培技术，生菜栽培技术研究，生菜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>46</integer>
+			<key>keywords</key>
+			<string>	
+生菜种植技术 分享生菜种植信息与种植知识 生菜种植技巧 生菜栽培技术</string>
+			<key>name</key>
+			<string>生菜种植</string>
+			<key>seq</key>
+			<integer>10</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>生菜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>  燕麦种植技术-粮食种植：燕麦栽培技术、燕麦相关品种、燕麦种植方法与技术</string>
+			<key>id</key>
+			<integer>11</integer>
+			<key>keywords</key>
+			<string>燕麦种植技术 燕麦详情资料，最新燕麦相关技术知识</string>
+			<key>name</key>
+			<string>燕麦种植</string>
+			<key>seq</key>
+			<integer>10</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>燕麦种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>木耳种植技术-蔬菜种植：木耳栽培技术，木耳栽培技术研究，木耳种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>47</integer>
+			<key>keywords</key>
+			<string>	
+木耳种植技术 分享生菜种植信息与种植知识 生菜种植技巧 生菜栽培技术</string>
+			<key>name</key>
+			<string>木耳种植</string>
+			<key>seq</key>
+			<integer>11</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>木耳种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>螃蟹养殖技术-水产渔业 螃蟹养殖技术 相关螃蟹的技术知识 养螃蟹的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>127</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 螃蟹相关养殖技术 螃蟹技术知识</string>
+			<key>name</key>
+			<string>螃蟹养殖</string>
+			<key>seq</key>
+			<integer>11</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>	
+螃蟹养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>康乃馨栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>189</integer>
+			<key>keywords</key>
+			<string>	
+康乃馨花卉栽培技术 康乃馨种植栽培 康乃馨栽培技术大全 </string>
+			<key>name</key>
+			<string>康乃馨栽培</string>
+			<key>seq</key>
+			<integer>11</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>康乃馨栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>黍米种植技术-粮食种植：黍米种植技术、黍米相关品种、黍米技术详情 糯秫、糯粟、糜子米</string>
+			<key>id</key>
+			<integer>12</integer>
+			<key>keywords</key>
+			<string>黍米种植技术 黍米新品种 黍米相信资料、最新黍米种植技术 糯秫、糯粟、糜子米</string>
+			<key>name</key>
+			<string>黍米种植</string>
+			<key>seq</key>
+			<integer>11</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>黍米种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>早熟禾培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>228</integer>
+			<key>keywords</key>
+			<string>早熟禾培养栽培技术 早熟禾培养 早熟禾栽培技术大全 栽培早熟禾相关技术</string>
+			<key>name</key>
+			<string>早熟禾栽培</string>
+			<key>seq</key>
+			<integer>11</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>早熟禾培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>柑桔种植技术-水果栽培 柑桔相关的管理、保存、运输技术知识 分享柑桔种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>80</integer>
+			<key>keywords</key>
+			<string>柑桔栽培 柑桔种植 相关柑桔管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>柑桔种植</string>
+			<key>seq</key>
+			<integer>11</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>柑桔种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>黑豆种植技术-粮食种植 ：黑豆栽培技术，黑豆品种、黑豆培养技术，黑豆生产技术要点。</string>
+			<key>id</key>
+			<integer>13</integer>
+			<key>keywords</key>
+			<string>黑豆种植技术 黑大豆栽培技术 黑豆详细资料，最新黑豆相关技术</string>
+			<key>name</key>
+			<string>黑豆种植</string>
+			<key>seq</key>
+			<integer>12</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>黑豆种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>刺槐培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>229</integer>
+			<key>keywords</key>
+			<string>刺槐培养栽培技术 刺槐培养 刺槐栽培技术大全 栽培刺槐相关技术</string>
+			<key>name</key>
+			<string>刺槐栽培</string>
+			<key>seq</key>
+			<integer>12</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>刺槐培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鲤鱼养殖技术-水产渔业 鲤鱼养殖技术 相关鲤鱼的技术知识 养鲤鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>128</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鲤鱼相关养殖技术 鲤鱼技术知识</string>
+			<key>name</key>
+			<string>鲤鱼养殖</string>
+			<key>seq</key>
+			<integer>12</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>	
+鲤鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>圣女果种植技术-水果栽培 圣女果相关的管理、保存、运输技术知识 分享圣女果种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>81</integer>
+			<key>keywords</key>
+			<string>圣女果栽培 圣女果种植 相关圣女果管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>圣女果种植</string>
+			<key>seq</key>
+			<integer>12</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>圣女果种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>大蒜种植技术-蔬菜种植：大蒜栽培技术，大蒜栽培技术研究，大蒜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>48</integer>
+			<key>keywords</key>
+			<string>	
+大蒜种植技术 分享大蒜种植信息与种植知识 大蒜种植技巧 大蒜栽培技术</string>
+			<key>name</key>
+			<string>大蒜种植</string>
+			<key>seq</key>
+			<integer>12</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>大蒜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>丁香栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>190</integer>
+			<key>keywords</key>
+			<string>	
+丁香花卉栽培技术 丁香种植栽培 丁香栽培技术大全 </string>
+			<key>name</key>
+			<string>丁香栽培</string>
+			<key>seq</key>
+			<integer>12</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>丁香栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>青蟹养殖技术-水产渔业 青蟹养殖技术 相关青蟹的技术知识 养青蟹的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>129</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 青蟹相关养殖技术 青蟹技术知识</string>
+			<key>name</key>
+			<string>青蟹养殖</string>
+			<key>seq</key>
+			<integer>13</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>青蟹养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+百日草栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>191</integer>
+			<key>keywords</key>
+			<string>百日草花卉栽培技术 百日草种植栽培 百日草栽培技术大全 </string>
+			<key>name</key>
+			<string>百日草栽培</string>
+			<key>seq</key>
+			<integer>13</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>百日草栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>豌豆种植技术-粮食种植：豌豆栽培技术、豌豆栽培要点与相关技术，豌豆高产种植技术</string>
+			<key>id</key>
+			<integer>14</integer>
+			<key>keywords</key>
+			<string>豌豆种植技术 豌豆栽培技术 豌豆品种 豌豆最新技术知识</string>
+			<key>name</key>
+			<string>豌豆种植</string>
+			<key>seq</key>
+			<integer>13</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>豌豆种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+韭菜种植技术-蔬菜种植：韭菜栽培技术，韭菜栽培技术研究，韭菜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>49</integer>
+			<key>keywords</key>
+			<string>	
+韭菜种植技术 分享韭菜种植信息与种植知识 韭菜种植技巧 韭菜栽培技术</string>
+			<key>name</key>
+			<string>韭菜种植</string>
+			<key>seq</key>
+			<integer>13</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>韭菜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>枣子种植技术-水果栽培 枣子相关的管理、保存、运输技术知识 分享枣子种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>82</integer>
+			<key>keywords</key>
+			<string>枣子栽培 枣子种植 相关枣子管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>枣子种植</string>
+			<key>seq</key>
+			<integer>13</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+枣子种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>芦荟培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>230</integer>
+			<key>keywords</key>
+			<string>芦荟培养栽培技术 芦荟培养 芦荟栽培技术大全 栽培芦荟相关技术</string>
+			<key>name</key>
+			<string>芦荟栽培</string>
+			<key>seq</key>
+			<integer>13</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>	
+芦荟培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+切花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>192</integer>
+			<key>keywords</key>
+			<string>切花花卉栽培技术 切花种植栽培 切花栽培技术大全 </string>
+			<key>name</key>
+			<string>切花栽培</string>
+			<key>seq</key>
+			<integer>14</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>切花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+菠菜种植技术-蔬菜种植：菠菜栽培技术，菠菜栽培技术研究，菠菜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>50</integer>
+			<key>keywords</key>
+			<string>	
+菠菜种植技术 分享菠菜种植信息与种植知识 菠菜种植技巧 菠菜栽培技术</string>
+			<key>name</key>
+			<string>菠菜种植</string>
+			<key>seq</key>
+			<integer>14</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>菠菜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>荔枝种植技术-水果栽培 荔枝相关的管理、保存、运输技术知识 分享荔枝种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>83</integer>
+			<key>keywords</key>
+			<string>荔枝栽培 荔枝种植 相关荔枝管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>荔枝种植</string>
+			<key>seq</key>
+			<integer>14</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+荔枝种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>红豆杉培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>231</integer>
+			<key>keywords</key>
+			<string>红豆杉培养栽培技术 红豆杉培养 红豆杉栽培技术大全 栽培红豆杉相关技术</string>
+			<key>name</key>
+			<string>红豆杉栽培</string>
+			<key>seq</key>
+			<integer>14</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>	
+红豆杉培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>甘薯种植技术-粮食种植：种薯要技术要点 甘薯相关病防治 甘薯相关品种与种植技术知识</string>
+			<key>id</key>
+			<integer>15</integer>
+			<key>keywords</key>
+			<string>甘薯种植技术 甘薯栽培技术 甘薯品种 甘薯相关种植技术</string>
+			<key>name</key>
+			<string>甘薯种植</string>
+			<key>seq</key>
+			<integer>14</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>甘薯种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>对虾养殖技术-水产渔业 对虾养殖技术 相关对虾的技术知识 养对虾的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>130</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 对虾相关养殖技术 对虾技术知识</string>
+			<key>name</key>
+			<string>对虾养殖</string>
+			<key>seq</key>
+			<integer>14</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>对虾养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>海参养殖技术-水产渔业 海参养殖技术 相关海参的技术知识 养海参的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>131</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 海参相关养殖技术 海参技术知识</string>
+			<key>name</key>
+			<string>海参养殖</string>
+			<key>seq</key>
+			<integer>15</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>海参养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>木薯种植技术-粮食种植：木薯除草剂防治木薯地杂草技术 木薯种植技术知识</string>
+			<key>id</key>
+			<integer>16</integer>
+			<key>keywords</key>
+			<string>木薯种植技术 木薯相关信息 木薯相关技术</string>
+			<key>name</key>
+			<string>木薯种植</string>
+			<key>seq</key>
+			<integer>15</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>木薯种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>李子种植技术-水果栽培 李子相关的管理、保存、运输技术知识 分享李子种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>84</integer>
+			<key>keywords</key>
+			<string>李子栽培 李子种植 相关李子管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>李子种植</string>
+			<key>seq</key>
+			<integer>15</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+李子种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+紫荆花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>193</integer>
+			<key>keywords</key>
+			<string>紫荆花花卉栽培技术 紫荆花种植栽培 紫荆花栽培技术大全 </string>
+			<key>name</key>
+			<string>紫荆花栽培</string>
+			<key>seq</key>
+			<integer>15</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>紫荆花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>紫云英培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>232</integer>
+			<key>keywords</key>
+			<string>紫云英培养栽培技术 紫云英培养 紫云英栽培技术大全 栽培紫云英相关技术</string>
+			<key>name</key>
+			<string>紫云英栽培</string>
+			<key>seq</key>
+			<integer>15</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>	
+紫云英培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+丝瓜种植技术-蔬菜种植：丝瓜栽培技术，丝瓜栽培技术研究，丝瓜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>51</integer>
+			<key>keywords</key>
+			<string>	
+丝瓜种植技术 分享丝瓜种植信息与种植知识 丝瓜种植技巧 丝瓜栽培技术</string>
+			<key>name</key>
+			<string>丝瓜种植</string>
+			<key>seq</key>
+			<integer>15</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>丝瓜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>蛤蜊养殖技术-水产渔业 蛤蜊养殖技术 相关蛤蜊的技术知识 养蛤蜊的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>132</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 蛤蜊相关养殖技术 蛤蜊技术知识</string>
+			<key>name</key>
+			<string>蛤蜊养殖</string>
+			<key>seq</key>
+			<integer>16</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>蛤蜊养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>旱稻种植技术-粮食种植:旱稻品种信息、旱稻栽培技术、旱稻技术知识信息</string>
+			<key>id</key>
+			<integer>17</integer>
+			<key>keywords</key>
+			<string>旱稻种植技术 旱稻栽培技术 旱稻相关技术信息 </string>
+			<key>name</key>
+			<string>旱稻种植</string>
+			<key>seq</key>
+			<integer>16</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>旱稻种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>红松培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>233</integer>
+			<key>keywords</key>
+			<string>红松培养栽培技术 红松培养 红松栽培技术大全 栽培红松相关技术</string>
+			<key>name</key>
+			<string>红松栽培</string>
+			<key>seq</key>
+			<integer>16</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>	
+红松培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+鸡腿菇种植技术-蔬菜种植：鸡腿菇栽培技术，鸡腿菇栽培技术研究，鸡腿菇种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>52</integer>
+			<key>keywords</key>
+			<string>	
+鸡腿菇种植技术 分享鸡腿菇种植信息与种植知识鸡腿菇种植技巧 鸡腿菇栽培技术</string>
+			<key>name</key>
+			<string>鸡腿菇种植</string>
+			<key>seq</key>
+			<integer>16</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>鸡腿菇种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+郁金香栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>194</integer>
+			<key>keywords</key>
+			<string>郁金香花卉栽培技术 郁金香种植栽培 郁金香栽培技术大全 </string>
+			<key>name</key>
+			<string>郁金香栽培</string>
+			<key>seq</key>
+			<integer>16</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>郁金香栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>哈密瓜种植技术-水果栽培 哈密瓜相关的管理、保存、运输技术知识 分享哈密瓜种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>85</integer>
+			<key>keywords</key>
+			<string>哈密瓜栽培 哈密瓜种植 相关哈密瓜管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>哈密瓜种植</string>
+			<key>seq</key>
+			<integer>16</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+哈密瓜种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>蛏子养殖技术-水产渔业 蛏子养殖技术 相关蛏子的技术知识 养蛏子的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>133</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 蛏子相关养殖技术 蛏子技术知识</string>
+			<key>name</key>
+			<string>蛏子养殖</string>
+			<key>seq</key>
+			<integer>17</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>蛏子养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>莴笋种植技术-蔬菜种植：莴笋栽培技术，莴笋栽培技术研究，莴笋种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>53</integer>
+			<key>keywords</key>
+			<string>	
+莴笋种植技术 分享莴笋种植信息与种植知识 莴笋种植技巧 莴笋栽培技术</string>
+			<key>name</key>
+			<string>莴笋种植</string>
+			<key>seq</key>
+			<integer>17</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>莴笋种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>火龙果种植技术-水果栽培 火龙果相关的管理、保存、运输技术知识 分享火龙果种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>86</integer>
+			<key>keywords</key>
+			<string>火龙果栽培 火龙果种植 相关火龙果管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>火龙果种植</string>
+			<key>seq</key>
+			<integer>17</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>火龙果种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>香草培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>234</integer>
+			<key>keywords</key>
+			<string>	
+香草培养栽培技术 香草培养 香草栽培技术大全 栽培香草相关技术</string>
+			<key>name</key>
+			<string>香草栽培</string>
+			<key>seq</key>
+			<integer>17</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>香草培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>粳稻种植技术-粮食种植 粳稻栽培技术 高产抗病优质粳稻新品种 高产栽培技术</string>
+			<key>id</key>
+			<integer>18</integer>
+			<key>keywords</key>
+			<string>粳稻种植技术 粳稻栽培技术 粳稻品种信息 粳稻相关技术</string>
+			<key>name</key>
+			<string>粳稻种植</string>
+			<key>seq</key>
+			<integer>17</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>粳稻种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>紫玉兰栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>195</integer>
+			<key>keywords</key>
+			<string>紫玉兰花卉栽培技术 紫玉兰种植栽培 紫玉兰栽培技术大全 </string>
+			<key>name</key>
+			<string>紫玉兰栽培</string>
+			<key>seq</key>
+			<integer>17</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>紫玉兰栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>女贞培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>235</integer>
+			<key>keywords</key>
+			<string>	
+女贞培养栽培技术 女贞培养 女贞栽培技术大全 栽培香草相关技术</string>
+			<key>name</key>
+			<string>女贞栽培</string>
+			<key>seq</key>
+			<integer>18</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>女贞培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>籼稻种植技术-粮食种植：籼稻栽培技术，籼稻种植技术知识 特优质籼稻 品种特性及栽培技术</string>
+			<key>id</key>
+			<integer>19</integer>
+			<key>keywords</key>
+			<string>籼稻种植技术 籼稻栽培技术 籼稻品种信息 籼稻技术知识</string>
+			<key>name</key>
+			<string>籼稻种植</string>
+			<key>seq</key>
+			<integer>18</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>籼稻种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>木瓜种植技术-水果栽培 木瓜相关的管理、保存、运输技术知识 分享木瓜种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>87</integer>
+			<key>keywords</key>
+			<string>木瓜栽培 木瓜种植 相关木瓜管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>木瓜种植</string>
+			<key>seq</key>
+			<integer>18</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>木瓜种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>金针菇种植技术-蔬菜种植：金针菇栽培技术，金针菇栽培技术研究，金针菇种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>55</integer>
+			<key>keywords</key>
+			<string>	
+金针菇种植技术 分享金针菇种植信息与种植知识 金针菇种植技巧 金针菇栽培技术</string>
+			<key>name</key>
+			<string>金针菇种植</string>
+			<key>seq</key>
+			<integer>18</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>金针菇种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>海棠栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>196</integer>
+			<key>keywords</key>
+			<string>海棠花卉栽培技术 海棠种植栽培 海棠栽培技术大全 </string>
+			<key>name</key>
+			<string>海棠栽培</string>
+			<key>seq</key>
+			<integer>18</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>海棠栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>海带养殖技术-水产渔业 海带养殖技术 相关海带的技术知识 养海带的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>134</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 海带相关养殖技术 海带技术知识</string>
+			<key>name</key>
+			<string>海带养殖</string>
+			<key>seq</key>
+			<integer>18</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>海带养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>胡萝卜种植技术-蔬菜种植：胡萝卜栽培技术，胡萝卜栽培技术研究，胡萝卜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>56</integer>
+			<key>keywords</key>
+			<string>	
+胡萝卜种植技术 分享胡萝卜种植信息与种植知识 胡萝卜种植技巧 胡萝卜栽培技术</string>
+			<key>name</key>
+			<string>胡萝卜种植</string>
+			<key>seq</key>
+			<integer>19</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>胡萝卜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>沼虾养殖技术-水产渔业 沼虾养殖技术 相关沼虾的技术知识 养沼虾的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>135</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 沼虾相关养殖技术 沼虾技术知识</string>
+			<key>name</key>
+			<string>沼虾养殖</string>
+			<key>seq</key>
+			<integer>19</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>沼虾养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>月季栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>197</integer>
+			<key>keywords</key>
+			<string>月季花卉栽培技术 月季种植栽培 月季栽培技术大全 </string>
+			<key>name</key>
+			<string>月季栽培</string>
+			<key>seq</key>
+			<integer>19</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>月季栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>杂粮种植技术-粮食种植 公害生产技术 防治技巧 危害症状及防治方法</string>
+			<key>id</key>
+			<integer>20</integer>
+			<key>keywords</key>
+			<string>杂粮种植技术 杂粮栽培技术 技术信息</string>
+			<key>name</key>
+			<string>杂粮种植</string>
+			<key>seq</key>
+			<integer>19</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>杂粮种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>水杉培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>236</integer>
+			<key>keywords</key>
+			<string>	
+水杉培养栽培技术 水杉培养 水杉栽培技术大全 栽培香草相关技术</string>
+			<key>name</key>
+			<string>水杉栽培</string>
+			<key>seq</key>
+			<integer>19</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>水杉培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>甜瓜种植技术-水果栽培 甜瓜相关的管理、保存、运输技术知识 分享甜瓜种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>88</integer>
+			<key>keywords</key>
+			<string>甜瓜栽培 甜瓜种植 相关甜瓜管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>甜瓜种植</string>
+			<key>seq</key>
+			<integer>19</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>甜瓜种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>梧桐培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>237</integer>
+			<key>keywords</key>
+			<string>	
+梧桐培养栽培技术 梧桐培养 梧桐栽培技术大全 栽培香草相关技术</string>
+			<key>name</key>
+			<string>梧桐栽培</string>
+			<key>seq</key>
+			<integer>20</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>梧桐培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>马铃薯（土豆种植技术-粮食种植：马铃薯栽培技术、马铃薯种植时间、马铃薯种植技术</string>
+			<key>id</key>
+			<integer>21</integer>
+			<key>keywords</key>
+			<string>马铃薯（土豆种植技术 马铃薯栽培方法 马铃薯相信资料 最新马铃薯技术知识</string>
+			<key>name</key>
+			<string>马铃薯种植</string>
+			<key>seq</key>
+			<integer>20</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>马铃薯（土豆）种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>榴莲种植技术-水果栽培 榴莲相关的管理、保存、运输技术知识 分享榴莲种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>89</integer>
+			<key>keywords</key>
+			<string>榴莲栽培 榴莲种植 相关榴莲管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>榴莲种植</string>
+			<key>seq</key>
+			<integer>20</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>榴莲种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>百合栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>198</integer>
+			<key>keywords</key>
+			<string>百合花卉栽培技术 百合种植栽培 百合栽培技术大全 </string>
+			<key>name</key>
+			<string>百合栽培</string>
+			<key>seq</key>
+			<integer>20</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>百合栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>梭子蟹养殖技术-水产渔业 梭子蟹养殖技术 相关梭子蟹的技术知识 养梭子蟹的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>136</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 梭子蟹相关养殖技术 梭子蟹技术知识</string>
+			<key>name</key>
+			<string>梭子蟹养殖</string>
+			<key>seq</key>
+			<integer>20</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>梭子蟹养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>平菇种植技术-蔬菜种植：平菇栽培技术，平菇栽培技术研究，平菇种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>57</integer>
+			<key>keywords</key>
+			<string>	
+平菇种植技术 分享平菇种植信息与种植知识 平菇种植技巧 平菇栽培技术</string>
+			<key>name</key>
+			<string>平菇种植</string>
+			<key>seq</key>
+			<integer>20</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>平菇种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>
+	
+山竹种植技术-水果栽培 山竹相关的管理、保存、运输技术知识 分享山竹种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>90</integer>
+			<key>keywords</key>
+			<string>	
+山竹栽培 山竹种植 相关山竹管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>山竹种植</string>
+			<key>seq</key>
+			<integer>21</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+山竹种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>西红柿种植技术-蔬菜种植：西红柿栽培技术，西红柿栽培技术研究，西红柿种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>54</integer>
+			<key>keywords</key>
+			<string>	
+西红柿种植技术 分享西红柿种植信息与种植知识 西红柿种植技巧 西红柿栽培技术</string>
+			<key>name</key>
+			<string>西红柿种植</string>
+			<key>seq</key>
+			<integer>21</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>西红柿种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>甲鱼养殖技术-水产渔业 甲鱼养殖技术 相关甲鱼的技术知识 养甲鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>137</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 甲鱼相关养殖技术 甲鱼技术知识</string>
+			<key>name</key>
+			<string>甲鱼养殖</string>
+			<key>seq</key>
+			<integer>21</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>甲鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>黑麦种植技术-粮食种植：黑麦栽培技术 黑麦的施肥管理 小黑麦新品种</string>
+			<key>id</key>
+			<integer>22</integer>
+			<key>keywords</key>
+			<string>黑麦种植技术 黑麦栽培技术，黑麦品种信息 黑麦技术知识</string>
+			<key>name</key>
+			<string>黑麦种植</string>
+			<key>seq</key>
+			<integer>21</integer>
+			<key>techclass</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>黑麦种植技术-粮食种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>芍药培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>238</integer>
+			<key>keywords</key>
+			<string>芍药培养栽培技术 芍药培养 芍药栽培技术大全 栽培芍药相关技术</string>
+			<key>name</key>
+			<string>芍药栽培</string>
+			<key>seq</key>
+			<integer>21</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>芍药培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+荷花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>199</integer>
+			<key>keywords</key>
+			<string>	
+荷花花卉栽培技术 荷花种植栽培 荷花栽培技术大全 </string>
+			<key>name</key>
+			<string>荷花栽培</string>
+			<key>seq</key>
+			<integer>21</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>荷花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+栀子花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>200</integer>
+			<key>keywords</key>
+			<string>	
+栀子花花卉栽培技术 栀子花种植栽培 栀子花栽培技术大全 </string>
+			<key>name</key>
+			<string>栀子花栽培</string>
+			<key>seq</key>
+			<integer>22</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>栀子花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>水藻养殖技术-水产渔业 水藻养殖技术 相关水藻的技术知识 水藻的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>138</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 水藻相关养殖技术 水藻技术知识</string>
+			<key>name</key>
+			<string>水藻养殖</string>
+			<key>seq</key>
+			<integer>22</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>水藻养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>
+	
+龙眼种植技术-水果栽培 龙眼相关的管理、保存、运输技术知识 分享龙眼种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>91</integer>
+			<key>keywords</key>
+			<string>	
+龙眼栽培 龙眼种植 相关龙眼管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>龙眼种植</string>
+			<key>seq</key>
+			<integer>22</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+龙眼种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>云杉培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>239</integer>
+			<key>keywords</key>
+			<string>云杉培养栽培技术 云杉培养 云杉栽培技术大全 栽培云杉相关技术</string>
+			<key>name</key>
+			<string>云杉栽培</string>
+			<key>seq</key>
+			<integer>22</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>云杉培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>茶树菇种植技术-蔬菜种植：茶树菇栽培技术，茶树菇栽培技术研究，茶树菇种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>58</integer>
+			<key>keywords</key>
+			<string>茶树菇种植技术 分享茶树菇种植信息与种植知识 茶树菇种植技巧 茶树菇栽培技术</string>
+			<key>name</key>
+			<string>茶树菇种植</string>
+			<key>seq</key>
+			<integer>22</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>茶树菇种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>皂荚树培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>240</integer>
+			<key>keywords</key>
+			<string>皂荚树培养栽培技术 皂荚树培养 皂荚树栽培技术大全 栽培皂荚树相关技术</string>
+			<key>name</key>
+			<string>皂荚树栽培</string>
+			<key>seq</key>
+			<integer>23</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>皂荚树培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>猕猴桃种植技术-水果栽培 猕猴桃相关的管理、保存、运输技术知识 分享猕猴桃种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>92</integer>
+			<key>keywords</key>
+			<string>猕猴桃栽培 猕猴桃种植 相关猕猴桃管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>猕猴桃种植</string>
+			<key>seq</key>
+			<integer>23</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+猕猴桃种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>南瓜种植技术-蔬菜种植：南瓜栽培技术，南瓜栽培技术研究，南瓜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>59</integer>
+			<key>keywords</key>
+			<string>南瓜种植技术 分享南瓜种植信息与种植知识 南瓜种植技巧 南瓜栽培技术</string>
+			<key>name</key>
+			<string>南瓜种植</string>
+			<key>seq</key>
+			<integer>23</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>南瓜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鲫鱼养殖技术-水产渔业 鲫鱼养殖技术 相关鲫鱼的技术知识 鲫鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>139</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鲫鱼相关养殖技术 鲫鱼技术知识</string>
+			<key>name</key>
+			<string>鲫鱼养殖</string>
+			<key>seq</key>
+			<integer>23</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鲫鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+樱花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>201</integer>
+			<key>keywords</key>
+			<string>	
+樱花花卉栽培技术 樱花种植栽培 樱花栽培技术大全 </string>
+			<key>name</key>
+			<string>樱花栽培</string>
+			<key>seq</key>
+			<integer>23</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>樱花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>大闸蟹养殖技术-水产渔业 大闸蟹养殖技术 相关大闸蟹的技术知识 大闸蟹的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>140</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 大闸蟹相关养殖技术 大闸蟹技术知识</string>
+			<key>name</key>
+			<string>大闸蟹养殖</string>
+			<key>seq</key>
+			<integer>24</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>大闸蟹养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>樱桃种植技术-水果栽培 樱桃相关的管理、保存、运输技术知识 分享樱桃种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>93</integer>
+			<key>keywords</key>
+			<string>樱桃栽培 樱桃种植 相关樱桃管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>樱桃种植</string>
+			<key>seq</key>
+			<integer>24</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+樱桃种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>芹菜种植技术-蔬菜种植：芹菜栽培技术，芹菜栽培技术研究，芹菜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>60</integer>
+			<key>keywords</key>
+			<string>芹菜种植技术 分享芹菜种植信息与种植知识 芹菜种植技巧 芹菜栽培技术</string>
+			<key>name</key>
+			<string>芹菜种植</string>
+			<key>seq</key>
+			<integer>24</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>芹菜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+茉莉花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>202</integer>
+			<key>keywords</key>
+			<string>	
+茉莉花花卉栽培技术 茉莉花种植栽培 茉莉花栽培技术大全 </string>
+			<key>name</key>
+			<string>茉莉花栽培</string>
+			<key>seq</key>
+			<integer>24</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>茉莉花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>夹竹桃培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>241</integer>
+			<key>keywords</key>
+			<string>夹竹桃培养栽培技术 夹竹桃培养 夹竹桃栽培技术大全 栽培夹竹桃相关技术</string>
+			<key>name</key>
+			<string>夹竹桃栽培</string>
+			<key>seq</key>
+			<integer>24</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>夹竹桃培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>水蜜桃种植技术-水果栽培 水蜜桃相关的管理、保存、运输技术知识 分享水蜜桃种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>94</integer>
+			<key>keywords</key>
+			<string>水蜜桃栽培 水蜜桃种植 相关水蜜桃管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>水蜜桃种植</string>
+			<key>seq</key>
+			<integer>25</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>水蜜桃种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+白虾养殖技术-水产渔业 白虾养殖技术 相关白虾的技术知识 白虾的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>141</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 白虾相关养殖技术 白虾技术知识</string>
+			<key>name</key>
+			<string>白虾养殖</string>
+			<key>seq</key>
+			<integer>25</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>白虾养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>富贵竹培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>242</integer>
+			<key>keywords</key>
+			<string>富贵竹培养栽培技术 富贵竹培养 富贵竹栽培技术大全 栽培富贵竹相关技术</string>
+			<key>name</key>
+			<string>富贵竹栽培</string>
+			<key>seq</key>
+			<integer>25</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>富贵竹培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>香菜种植技术-蔬菜种植：香菜栽培技术，香菜栽培技术研究，香菜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>61</integer>
+			<key>keywords</key>
+			<string>香菜种植技术 分享香菜种植信息与种植知识 香菜种植技巧 香菜栽培技术</string>
+			<key>name</key>
+			<string>香菜种植</string>
+			<key>seq</key>
+			<integer>25</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>香菜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>牵牛花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>203</integer>
+			<key>keywords</key>
+			<string>	
+牵牛花花卉栽培技术 牵牛花种植栽培 牵牛花栽培技术大全 </string>
+			<key>name</key>
+			<string>牵牛花栽培</string>
+			<key>seq</key>
+			<integer>25</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>牵牛花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>凤仙花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>204</integer>
+			<key>keywords</key>
+			<string>	
+凤仙花花卉栽培技术 凤仙花种植栽培 凤仙花栽培技术大全 </string>
+			<key>name</key>
+			<string>凤仙花栽培</string>
+			<key>seq</key>
+			<integer>26</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>凤仙花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>豇豆种植技术-蔬菜种植：豇豆栽培技术，豇豆栽培技术研究，豇豆种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>62</integer>
+			<key>keywords</key>
+			<string>豇豆种植技术 分享豇豆种植信息与种植知识 豇豆种植技巧 豇豆栽培技术</string>
+			<key>name</key>
+			<string>豇豆种植</string>
+			<key>seq</key>
+			<integer>26</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>豇豆种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+鲢鱼养殖技术-水产渔业 鲢鱼养殖技术 相关鲢鱼的技术知识 鲢鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>142</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鲢鱼相关养殖技术 鲢鱼技术知识</string>
+			<key>name</key>
+			<string>鲢鱼养殖</string>
+			<key>seq</key>
+			<integer>26</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鲢鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>杨桃种植技术-水果栽培 杨桃相关的管理、保存、运输技术知识 分享杨桃种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>95</integer>
+			<key>keywords</key>
+			<string>杨桃栽培 杨桃种植 相关杨桃管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>杨桃种植</string>
+			<key>seq</key>
+			<integer>26</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>杨桃种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>文竹培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>243</integer>
+			<key>keywords</key>
+			<string>文竹培养栽培技术 文竹培养 文竹栽培技术大全 栽培文竹相关技术</string>
+			<key>name</key>
+			<string>文竹栽培</string>
+			<key>seq</key>
+			<integer>26</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>文竹培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>娃娃菜种植技术-蔬菜种植：娃娃菜栽培技术，娃娃菜栽培技术研究，娃娃菜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>63</integer>
+			<key>keywords</key>
+			<string>娃娃菜种植技术 分享娃娃菜种植信息与种植知识 娃娃菜种植技巧 娃娃菜栽培技术</string>
+			<key>name</key>
+			<string>娃娃菜种植</string>
+			<key>seq</key>
+			<integer>27</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>娃娃菜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+河虾养殖技术-水产渔业 河虾养殖技术 相关河虾的技术知识 河虾的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>143</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 河虾相关养殖技术 河虾技术知识</string>
+			<key>name</key>
+			<string>河虾养殖</string>
+			<key>seq</key>
+			<integer>27</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>河虾养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>油桃种植技术-水果栽培 油桃相关的管理、保存、运输技术知识 分享油桃种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>96</integer>
+			<key>keywords</key>
+			<string>油桃栽培 油桃种植 相关油桃管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>油桃种植</string>
+			<key>seq</key>
+			<integer>27</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>油桃种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>常春藤培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>244</integer>
+			<key>keywords</key>
+			<string>常春藤培养栽培技术 常春藤培养 常春藤栽培技术大全 栽培常春藤相关技术</string>
+			<key>name</key>
+			<string>常春藤栽培</string>
+			<key>seq</key>
+			<integer>27</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>常春藤培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>马蹄莲栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>205</integer>
+			<key>keywords</key>
+			<string>	
+马蹄莲花卉栽培技术 马蹄莲种植栽培 马蹄莲栽培技术大全 </string>
+			<key>name</key>
+			<string>马蹄莲栽培</string>
+			<key>seq</key>
+			<integer>27</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>马蹄莲栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>石竹培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>245</integer>
+			<key>keywords</key>
+			<string>石竹培养栽培技术 石竹培养 石竹栽培技术大全 栽培石竹相关技术</string>
+			<key>name</key>
+			<string>石竹栽培</string>
+			<key>seq</key>
+			<integer>28</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>石竹培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>西兰花种植技术-蔬菜种植：西兰花栽培技术，西兰花栽培技术研究，西兰花种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>64</integer>
+			<key>keywords</key>
+			<string>西兰花种植技术 分享西兰花种植信息与种植知识 西兰花种植技巧 西兰花栽培技术</string>
+			<key>name</key>
+			<string>西兰花种植</string>
+			<key>seq</key>
+			<integer>28</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>西兰花种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>蟠桃种植技术-水果栽培 蟠桃相关的管理、保存、运输技术知识 分享蟠桃种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>97</integer>
+			<key>keywords</key>
+			<string>蟠桃栽培 蟠桃种植 相关蟠桃管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>蟠桃种植</string>
+			<key>seq</key>
+			<integer>28</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>蟠桃种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+观赏鱼养殖技术-水产渔业 观赏鱼养殖技术 相关观赏鱼的技术知识 观赏鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>144</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 观赏鱼相关养殖技术 观赏鱼技术知识</string>
+			<key>name</key>
+			<string>观赏鱼养殖</string>
+			<key>seq</key>
+			<integer>28</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>观赏鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>天竺葵栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>206</integer>
+			<key>keywords</key>
+			<string>	
+天竺葵花卉栽培技术 天竺葵种植栽培 天竺葵栽培技术大全 </string>
+			<key>name</key>
+			<string>天竺葵栽培</string>
+			<key>seq</key>
+			<integer>28</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>天竺葵栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>苏铁培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>246</integer>
+			<key>keywords</key>
+			<string>苏铁培养栽培技术 苏铁培养 苏铁栽培技术大全 栽培苏铁相关技术</string>
+			<key>name</key>
+			<string>苏铁栽培</string>
+			<key>seq</key>
+			<integer>29</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>苏铁培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+鳝鱼养殖技术-水产渔业 鳝鱼养殖技术 相关鳝鱼的技术知识 鳝鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>145</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 鳝鱼相关养殖技术 鳝鱼技术知识</string>
+			<key>name</key>
+			<string>鳝鱼养殖</string>
+			<key>seq</key>
+			<integer>29</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鳝鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>蟹爪兰栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>207</integer>
+			<key>keywords</key>
+			<string>蟹爪兰花卉栽培技术 蟹爪兰种植栽培 蟹爪兰栽培技术大全 </string>
+			<key>name</key>
+			<string>蟹爪兰栽培</string>
+			<key>seq</key>
+			<integer>29</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>蟹爪兰栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>魔芋种植技术-蔬菜种植：魔芋栽培技术，魔芋栽培技术研究，魔芋种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>65</integer>
+			<key>keywords</key>
+			<string>魔芋种植技术 分享魔芋种植信息与种植知识 魔芋种植技巧 魔芋栽培技术</string>
+			<key>name</key>
+			<string>魔芋种植</string>
+			<key>seq</key>
+			<integer>29</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>魔芋种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>脐橙种植技术-水果栽培 脐橙相关的管理、保存、运输技术知识 分享脐橙种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>98</integer>
+			<key>keywords</key>
+			<string>脐橙栽培 脐橙种植 相关脐橙管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>脐橙种植</string>
+			<key>seq</key>
+			<integer>29</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+脐橙种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>八仙花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>208</integer>
+			<key>keywords</key>
+			<string>八仙花花卉栽培技术 八仙花种植栽培 八仙花栽培技术大全 </string>
+			<key>name</key>
+			<string>八仙花栽培</string>
+			<key>seq</key>
+			<integer>30</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>八仙花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>菠萝种植技术-水果栽培 菠萝相关的管理、保存、运输技术知识 分享菠萝种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>99</integer>
+			<key>keywords</key>
+			<string>菠萝栽培 菠萝种植 相关菠萝管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>菠萝种植</string>
+			<key>seq</key>
+			<integer>30</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+菠萝种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>猴头菇种植技术-蔬菜种植：猴头菇栽培技术，猴头菇栽培技术研究，猴头菇种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>66</integer>
+			<key>keywords</key>
+			<string>猴头菇种植技术 分享猴头菇种植信息与种植知识 猴头菇种植技巧 猴头菇栽培技术</string>
+			<key>name</key>
+			<string>猴头菇种植</string>
+			<key>seq</key>
+			<integer>30</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>猴头菇种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>孔雀竹培养栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>247</integer>
+			<key>keywords</key>
+			<string>孔雀竹培养栽培技术 孔雀竹培养 孔雀竹栽培技术大全 栽培孔雀竹相关技术</string>
+			<key>name</key>
+			<string>孔雀竹栽培</string>
+			<key>seq</key>
+			<integer>30</integer>
+			<key>techclass</key>
+			<integer>217</integer>
+			<key>title</key>
+			<string>孔雀竹培养栽培技术-苗木培养与栽培技术</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+蟹苗养殖技术-水产渔业 蟹苗养殖技术 相关蟹苗的技术知识 蟹苗的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>146</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 蟹苗相关养殖技术 蟹苗技术知识</string>
+			<key>name</key>
+			<string>蟹苗养殖</string>
+			<key>seq</key>
+			<integer>30</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>蟹苗养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>火鹤花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>209</integer>
+			<key>keywords</key>
+			<string>火鹤花花卉栽培技术 火鹤花种植栽培 火鹤花栽培技术大全 </string>
+			<key>name</key>
+			<string>火鹤花栽培</string>
+			<key>seq</key>
+			<integer>31</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>火鹤花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>柠檬种植技术-水果栽培 柠檬相关的管理、保存、运输技术知识 分享柠檬种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>100</integer>
+			<key>keywords</key>
+			<string>柠檬栽培 柠檬种植 相关柠檬管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>柠檬种植</string>
+			<key>seq</key>
+			<integer>31</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+柠檬种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+水晶虾养殖技术-水产渔业 水晶虾养殖技术 相关水晶虾的技术知识 水晶虾的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>147</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 水晶虾相关养殖技术 水晶虾技术知识</string>
+			<key>name</key>
+			<string>水晶虾养殖</string>
+			<key>seq</key>
+			<integer>31</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>水晶虾养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>辣椒种植技术-蔬菜种植：辣椒栽培技术，辣椒栽培技术研究，辣椒种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>67</integer>
+			<key>keywords</key>
+			<string>辣椒种植技术 分享辣椒种植信息与种植知识 辣椒种植技巧 辣椒栽培技术</string>
+			<key>name</key>
+			<string>辣椒种植</string>
+			<key>seq</key>
+			<integer>31</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>辣椒种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>报春花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>210</integer>
+			<key>keywords</key>
+			<string>报春花花卉栽培技术 报春花种植栽培 报春花栽培技术大全 </string>
+			<key>name</key>
+			<string>报春花栽培</string>
+			<key>seq</key>
+			<integer>32</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>报春花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+泥鳅养殖技术-水产渔业 泥鳅养殖技术 相关泥鳅的技术知识 泥鳅的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>148</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 泥鳅相关养殖技术 泥鳅技术知识</string>
+			<key>name</key>
+			<string>泥鳅养殖</string>
+			<key>seq</key>
+			<integer>32</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>泥鳅养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>石榴种植技术-水果栽培 石榴相关的管理、保存、运输技术知识 分享石榴种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>101</integer>
+			<key>keywords</key>
+			<string>石榴栽培 石榴种植 相关石榴管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>石榴种植</string>
+			<key>seq</key>
+			<integer>32</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+石榴种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>榨菜种植技术-蔬菜种植：榨菜栽培技术，榨菜栽培技术研究，榨菜种植技巧与技术知识分享</string>
+			<key>id</key>
+			<integer>68</integer>
+			<key>keywords</key>
+			<string>榨菜种植技术 分享榨菜种植信息与种植知识 榨菜种植技巧 榨菜栽培技术</string>
+			<key>name</key>
+			<string>榨菜种植</string>
+			<key>seq</key>
+			<integer>32</integer>
+			<key>techclass</key>
+			<integer>36</integer>
+			<key>title</key>
+			<string>榨菜种植技术-蔬菜种植</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>长春花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>211</integer>
+			<key>keywords</key>
+			<string>长春花花卉栽培技术 长春花种植栽培 长春花栽培技术大全 </string>
+			<key>name</key>
+			<string>长春花栽培</string>
+			<key>seq</key>
+			<integer>33</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>长春花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>罗非鱼养殖技术-水产渔业 罗非鱼养殖技术 相关罗非鱼的技术知识 罗非鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>149</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 罗非鱼相关养殖技术 罗非鱼技术知识</string>
+			<key>name</key>
+			<string>罗非鱼养殖</string>
+			<key>seq</key>
+			<integer>33</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>罗非鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>杏子种植技术-水果栽培 杏子相关的管理、保存、运输技术知识 分享杏子种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>102</integer>
+			<key>keywords</key>
+			<string>	
+杏子栽培 杏子种植 相关杏子管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>杏子种植</string>
+			<key>seq</key>
+			<integer>33</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>杏子种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>啤酒花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>212</integer>
+			<key>keywords</key>
+			<string>啤酒花花卉栽培技术 啤酒花种植栽培 啤酒花栽培技术大全 </string>
+			<key>name</key>
+			<string>啤酒花栽培</string>
+			<key>seq</key>
+			<integer>34</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>啤酒花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>枇杷种植技术-水果栽培 枇杷相关的管理、保存、运输技术知识 分享枇杷种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>103</integer>
+			<key>keywords</key>
+			<string>	
+枇杷栽培 枇杷种植 相关枇杷管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>枇杷种植</string>
+			<key>seq</key>
+			<integer>34</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>枇杷种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>虾苗养殖技术-水产渔业 虾苗养殖技术 相关虾苗的技术知识 虾苗的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>150</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 虾苗相关养殖技术 虾苗技术知识</string>
+			<key>name</key>
+			<string>虾苗养殖</string>
+			<key>seq</key>
+			<integer>34</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>虾苗养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>真鲷鱼养殖技术-水产渔业 真鲷鱼养殖技术 相关真鲷鱼的技术知识 真鲷鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>151</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 真鲷鱼相关养殖技术 真鲷鱼技术知识</string>
+			<key>name</key>
+			<string>真鲷鱼养殖</string>
+			<key>seq</key>
+			<integer>35</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>真鲷鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>山楂种植技术-水果栽培 山楂相关的管理、保存、运输技术知识 分享山楂种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>104</integer>
+			<key>keywords</key>
+			<string>	
+山楂栽培 山楂种植 相关山楂管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>山楂种植</string>
+			<key>seq</key>
+			<integer>35</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>山楂种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>唐菖蒲栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>213</integer>
+			<key>keywords</key>
+			<string>唐菖蒲花卉栽培技术 唐菖蒲种植栽培 唐菖蒲栽培技术大全 </string>
+			<key>name</key>
+			<string>唐菖蒲栽培</string>
+			<key>seq</key>
+			<integer>35</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>唐菖蒲栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>沙糖桔种植技术-水果栽培 沙糖桔相关的管理、保存、运输技术知识 分享沙糖桔种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>105</integer>
+			<key>keywords</key>
+			<string>	
+沙糖桔栽培 沙糖桔种植 相关沙糖桔管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>沙糖桔种植</string>
+			<key>seq</key>
+			<integer>36</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>沙糖桔种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>袋鼠花栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>214</integer>
+			<key>keywords</key>
+			<string>袋鼠花花卉栽培技术 袋鼠花种植栽培 袋鼠花栽培技术大全 </string>
+			<key>name</key>
+			<string>袋鼠花栽培</string>
+			<key>seq</key>
+			<integer>36</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>袋鼠花栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鱿鱼养殖技术-水产渔业 鱿鱼养殖技术 相关鱿鱼的技术知识 鱿鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>152</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鱿鱼相关养殖技术 鱿鱼技术知识</string>
+			<key>name</key>
+			<string>鱿鱼养殖</string>
+			<key>seq</key>
+			<integer>36</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鱿鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鳟鱼养殖技术-水产渔业 鳟鱼养殖技术 相关鳟鱼的技术知识 鳟鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>153</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鳟鱼相关养殖技术 鳟鱼技术知识</string>
+			<key>name</key>
+			<string>鳟鱼养殖</string>
+			<key>seq</key>
+			<integer>37</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鳟鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>柚子种植技术-水果栽培 柚子相关的管理、保存、运输技术知识 分享柚子种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>106</integer>
+			<key>keywords</key>
+			<string>	
+柚子栽培 柚子种植 相关柚子管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>柚子种植</string>
+			<key>seq</key>
+			<integer>37</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+柚子种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>仙客来栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>215</integer>
+			<key>keywords</key>
+			<string>仙客来花卉栽培技术 仙客来种植栽培 仙客来栽培技术大全</string>
+			<key>name</key>
+			<string>仙客来栽培</string>
+			<key>seq</key>
+			<integer>37</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>仙客来栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鲈鱼养殖技术-水产渔业 鲈鱼养殖技术 相关鲈鱼的技术知识 鲈鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>154</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鲈鱼相关养殖技术 鲈鱼技术知识</string>
+			<key>name</key>
+			<string>鲈鱼养殖</string>
+			<key>seq</key>
+			<integer>38</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鲈鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>翠菊栽培技术包括整地、换土、播种、育苗、定植、作堰、施肥、浇水、排水、整形、修剪等整套花卉栽培技术 。</string>
+			<key>id</key>
+			<integer>216</integer>
+			<key>keywords</key>
+			<string>翠菊花卉栽培技术 翠菊种植栽培 翠菊栽培技术大全</string>
+			<key>name</key>
+			<string>翠菊栽培</string>
+			<key>seq</key>
+			<integer>38</integer>
+			<key>techclass</key>
+			<integer>178</integer>
+			<key>title</key>
+			<string>翠菊栽培技术-花卉栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>柿子种植技术-水果栽培 柿子相关的管理、保存、运输技术知识 分享柿子种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>107</integer>
+			<key>keywords</key>
+			<string>	
+柿子栽培 柿子种植 相关柿子管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>柿子种植</string>
+			<key>seq</key>
+			<integer>38</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+柿子种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鲟鱼养殖技术-水产渔业 鲟鱼养殖技术 相关鲟鱼的技术知识 鲟鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>155</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鲟鱼相关养殖技术 鲟鱼技术知识</string>
+			<key>name</key>
+			<string>鲟鱼养殖</string>
+			<key>seq</key>
+			<integer>39</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鲟鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>黑莓种植技术-水果栽培 黑莓相关的管理、保存、运输技术知识 分享黑莓种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>108</integer>
+			<key>keywords</key>
+			<string>	
+黑莓栽培 黑莓种植 相关黑莓管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>黑莓种植</string>
+			<key>seq</key>
+			<integer>39</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+黑莓种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鳗鱼养殖技术-水产渔业 鳗鱼养殖技术 相关鳗鱼的技术知识 鳗鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>156</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鳗鱼相关养殖技术 鳗鱼技术知识</string>
+			<key>name</key>
+			<string>鳗鱼养殖</string>
+			<key>seq</key>
+			<integer>40</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鳗鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>香瓜种植技术-水果栽培 香瓜相关的管理、保存、运输技术知识 分享香瓜种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>109</integer>
+			<key>keywords</key>
+			<string>	
+香瓜栽培 香瓜种植 相关香瓜管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>香瓜种植</string>
+			<key>seq</key>
+			<integer>40</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>	
+香瓜种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>杨梅种植技术-水果栽培 杨梅相关的管理、保存、运输技术知识 分享杨梅种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>110</integer>
+			<key>keywords</key>
+			<string>杨梅栽培 杨梅种植 相关杨梅管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>杨梅种植</string>
+			<key>seq</key>
+			<integer>41</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>杨梅种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+银鱼养殖技术-水产渔业 银鱼养殖技术 相关银鱼的技术知识 银鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>157</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 银鱼相关养殖技术 银鱼技术知识</string>
+			<key>name</key>
+			<string>银鱼养殖</string>
+			<key>seq</key>
+			<integer>41</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>银鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>橘子种植技术-水果栽培 橘子相关的管理、保存、运输技术知识 分享橘子种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>112</integer>
+			<key>keywords</key>
+			<string>橘子栽培 橘子种植 相关橘子管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>橘子种植</string>
+			<key>seq</key>
+			<integer>42</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>橘子种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+龙鱼养殖技术-水产渔业 龙鱼养殖技术 相关龙鱼的技术知识 龙鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>158</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 龙鱼相关养殖技术 龙鱼技术知识</string>
+			<key>name</key>
+			<string>龙鱼养殖</string>
+			<key>seq</key>
+			<integer>42</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>龙鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>梅子种植技术-水果栽培 梅子相关的管理、保存、运输技术知识 分享梅子种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>111</integer>
+			<key>keywords</key>
+			<string>梅子栽培 梅子种植 相关梅子管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>梅子种植</string>
+			<key>seq</key>
+			<integer>42</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>梅子种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+三文鱼养殖技术-水产渔业 三文鱼养殖技术 相关三文鱼的技术知识 三文鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>159</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 三文鱼相关养殖技术 三文鱼技术知识</string>
+			<key>name</key>
+			<string>三文鱼养殖</string>
+			<key>seq</key>
+			<integer>43</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>三文鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>青提种植技术-水果栽培 青提相关的管理、保存、运输技术知识 分享青提种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>113</integer>
+			<key>keywords</key>
+			<string>青提栽培 青提种植 相关青提管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>青提种植</string>
+			<key>seq</key>
+			<integer>44</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>青提种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+锦鲤鱼养殖技术-水产渔业 锦鲤鱼养殖技术 相关锦鲤鱼的技术知识 锦鲤鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>160</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 锦鲤鱼相关养殖技术 锦鲤鱼技术知识</string>
+			<key>name</key>
+			<string>锦鲤鱼养殖</string>
+			<key>seq</key>
+			<integer>44</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>锦鲤鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>红提种植技术-水果栽培 红提相关的管理、保存、运输技术知识 分享红提种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>114</integer>
+			<key>keywords</key>
+			<string>红提栽培 红提种植 相关红提管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>红提种植</string>
+			<key>seq</key>
+			<integer>45</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>红提种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>河豚养殖技术-水产渔业 河豚养殖技术 相关河豚的技术知识 河豚的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>161</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 河豚相关养殖技术 河豚技术知识</string>
+			<key>name</key>
+			<string>河豚养殖</string>
+			<key>seq</key>
+			<integer>45</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>河豚养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>芒果种植技术-水果栽培 芒果相关的管理、保存、运输技术知识 分享芒果种植与栽培的相关技术介绍</string>
+			<key>id</key>
+			<integer>115</integer>
+			<key>keywords</key>
+			<string>芒果栽培 芒果种植 相关芒果管理、保存、运输技术知识</string>
+			<key>name</key>
+			<string>芒果种植</string>
+			<key>seq</key>
+			<integer>45</integer>
+			<key>techclass</key>
+			<integer>69</integer>
+			<key>title</key>
+			<string>芒果种植技术-水果栽培</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>武昌鱼养殖技术-水产渔业 武昌鱼养殖技术 相关武昌鱼的技术知识 武昌鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>162</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 武昌鱼相关养殖技术 武昌鱼技术知识</string>
+			<key>name</key>
+			<string>武昌鱼养殖</string>
+			<key>seq</key>
+			<integer>46</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>河豚养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>回鱼养殖技术-水产渔业 回鱼养殖技术 相关回鱼的技术知识 回鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>163</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 回鱼相关养殖技术 回鱼技术知识</string>
+			<key>name</key>
+			<string>回鱼养殖</string>
+			<key>seq</key>
+			<integer>47</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>回鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鳜鱼养殖技术-水产渔业 鳜鱼养殖技术 相关鳜鱼的技术知识 鳜鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>164</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 鳜鱼相关养殖技术 鳜鱼技术知识</string>
+			<key>name</key>
+			<string>鳜鱼养殖</string>
+			<key>seq</key>
+			<integer>48</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鳜鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鲳鱼养殖技术-水产渔业 鲳鱼养殖技术 相关鲳鱼的技术知识 鲳鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>165</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鲳鱼相关养殖技术 鲳鱼技术知识</string>
+			<key>name</key>
+			<string>鲳鱼养殖</string>
+			<key>seq</key>
+			<integer>49</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鲳鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鲍鱼养殖技术-水产渔业 鲍鱼养殖技术 相关鲍鱼的技术知识 鲍鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>166</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鲍鱼相关养殖技术 鲍鱼技术知识</string>
+			<key>name</key>
+			<string>鲍鱼养殖</string>
+			<key>seq</key>
+			<integer>50</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鲍鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鳙鱼养殖技术-水产渔业 鳙鱼养殖技术 相关鳙鱼的技术知识 鳙鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>167</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鳙鱼相关养殖技术 鳙鱼技术知识</string>
+			<key>name</key>
+			<string>鳙鱼养殖</string>
+			<key>seq</key>
+			<integer>51</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鳙鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>鲨鱼养殖技术-水产渔业 鲨鱼养殖技术 相关鲨鱼的技术知识 鲨鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>168</integer>
+			<key>keywords</key>
+			<string>水产渔业相关养殖技术 鲨鱼相关养殖技术 鲨鱼技术知识</string>
+			<key>name</key>
+			<string>鲨鱼养殖</string>
+			<key>seq</key>
+			<integer>52</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鲨鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+黑鱼养殖技术-水产渔业 黑鱼养殖技术 相关黑鱼的技术知识 黑鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>169</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 黑鱼相关养殖技术 黑鱼技术知识</string>
+			<key>name</key>
+			<string>黑鱼养殖</string>
+			<key>seq</key>
+			<integer>53</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>黑鱼养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+黄颡养殖技术-水产渔业 黄颡养殖技术 相关黄颡的技术知识 黄颡的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>170</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 黄颡相关养殖技术 黄颡技术知识</string>
+			<key>name</key>
+			<string>黄颡养殖</string>
+			<key>seq</key>
+			<integer>54</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>黄颡养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+鳖养殖技术-水产渔业 鳖养殖技术 相关鳖的技术知识 鳖的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>171</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 鳖相关养殖技术 鳖技术知识</string>
+			<key>name</key>
+			<string>鳖养殖</string>
+			<key>seq</key>
+			<integer>55</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>鳖养殖技术-水产渔业</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>	
+胭脂鱼养殖技术-水产渔业 胭脂鱼养殖技术 相关胭脂鱼的技术知识 胭脂鱼的注意事项，以及相关养殖需求</string>
+			<key>id</key>
+			<integer>172</integer>
+			<key>keywords</key>
+			<string>	
+水产渔业相关养殖技术 胭脂鱼相关养殖技术 胭脂鱼技术知识</string>
+			<key>name</key>
+			<string>胭脂鱼养殖</string>
+			<key>seq</key>
+			<integer>56</integer>
+			<key>techclass</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>胭脂鱼养殖技术-水产渔业</string>
+		</dict>
+</array>
+</plist>

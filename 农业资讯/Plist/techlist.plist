@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>status</key>
+	<true/>
+	<key>tngou</key>
+	<array>
+		<dict>
+			<key>count</key>
+			<integer>161</integer>
+			<key>description</key>
+			<string>应对气候变化 防止小麦冻害 从小麦单株个体来分析，到日平均气温达到0℃小麦开始进入越冬期时，冬性品种主茎有6叶或6叶1心，单株有5-7个分蘖，7-10条次生根；半冬性品种主茎有6叶，单株有3-5个分蘖，5-7条次生根；春性品种主茎有5叶或5叶1心，单株有2-3个分蘖，3-5条次生根，可视为壮苗，抗寒能力较强</string>
+			<key>fcount</key>
+			<integer>0</integer>
+			<key>id</key>
+			<integer>49</integer>
+			<key>img</key>
+			<string>/tech/default.jpg</string>
+			<key>keywords</key>
+			<string>品种 冻害 小麦 春化阶段 播种 </string>
+			<key>rcount</key>
+			<integer>0</integer>
+			<key>tclass</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>3</integer>
+			<key>title</key>
+			<string>应对气候变化防止小麦冻害</string>
+			<key>user</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>count</key>
+			<integer>205</integer>
+			<key>description</key>
+			<string>春季麦田管理技术 最近由于刚下过雨，这类麦田可以趁墒追肥；另一种情况是在土壤肥力较高地块上的旺苗，虽然麦苗较旺，但没有“脱肥”发黄现象，如果返青期追肥浇水，会促其更旺，导致生育中后期变弱早衰减产，所以这类旺苗要在起身期追肥浇水</string>
+			<key>fcount</key>
+			<integer>0</integer>
+			<key>id</key>
+			<integer>48</integer>
+			<key>img</key>
+			<string>/tech/150403/f5a44bd86ef7f2fef1143e8f6771a301.jpg</string>
+			<key>keywords</key>
+			<string>小麦 麦田 春季 分蘖 生长 </string>
+			<key>rcount</key>
+			<integer>0</integer>
+			<key>tclass</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>3</integer>
+			<key>title</key>
+			<string>小麦生产进入了春季管理的关键时期</string>
+			<key>user</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>count</key>
+			<integer>158</integer>
+			<key>description</key>
+			<string>小麦播前药剂拌种技术 小麦拌种主要防治对象：一是土传病害，主要是纹枯病、全蚀病、根腐病，这些病菌在土壤中可以存活多年，在小麦拌种后种子开始萌芽时病菌就可以浸染；二是系统浸染病害，主要有秆黑粉病、散黑穗病和腥黑穗病，病菌从种子萌发时侵入生长点，随小麦植株生长进行系统浸染，穗期表现危害症状；三是地下害虫，主要是蛴螬、蝼蛄和金针虫，它们在秋苗期和返青后咬食小麦根茎部，造成缺苗断垄</string>
+			<key>fcount</key>
+			<integer>0</integer>
+			<key>id</key>
+			<integer>47</integer>
+			<key>img</key>
+			<string>/tech/150403/855b187dff4e2d405df99085e01b391c.jpg</string>
+			<key>keywords</key>
+			<string>小麦 地下害虫 种子 拌种 防治 </string>
+			<key>rcount</key>
+			<integer>0</integer>
+			<key>tclass</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>3</integer>
+			<key>title</key>
+			<string>小麦播前药剂拌种技术</string>
+			<key>user</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>count</key>
+			<integer>136</integer>
+			<key>description</key>
+			<string>“三麦”种传病害的防治方法 p;发生上述种传病害后，春季应采取补救措施，对刚开始发病的田块，适当追施氮肥和磷肥，每亩施尿素5～7</string>
+			<key>fcount</key>
+			<integer>0</integer>
+			<key>id</key>
+			<integer>46</integer>
+			<key>img</key>
+			<string>/tech/150403/be7d9245581bb81f42ef291fe41e5e23.jpg</string>
+			<key>keywords</key>
+			<string>种子 病害 处理 黑穗病 条纹病 </string>
+			<key>rcount</key>
+			<integer>0</integer>
+			<key>tclass</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>3</integer>
+			<key>title</key>
+			<string>“三麦”种传病害主要有条纹病、黑穗病、网斑病等</string>
+			<key>user</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>count</key>
+			<integer>161</integer>
+			<key>description</key>
+			<string>冬小麦的管理 这样既可蹲苗壮长、适当控制分蘖、降低基部节间长度、促使茎秆粗壮、防止后期倒伏，又可节约一次浇水成本，还可促进大穗大粒，提高品质</string>
+			<key>fcount</key>
+			<integer>0</integer>
+			<key>id</key>
+			<integer>45</integer>
+			<key>img</key>
+			<string>/tech/150403/25c63cc602cf12d295b3cf7a184ad9bb.png</string>
+			<key>keywords</key>
+			<string>麦田 追肥 每亩 进行 左右 </string>
+			<key>rcount</key>
+			<integer>0</integer>
+			<key>tclass</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>3</integer>
+			<key>title</key>
+			<string>春季第一次肥水管理可推迟在拔节前期</string>
+			<key>user</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>count</key>
+			<integer>133</integer>
+			<key>description</key>
+			<string>小麦10类弱苗的管护 土壤湿板或盐碱危害造成的弱苗通常表现为麦苗根系发育差，吸收能力弱，分蘖出生慢，并往往伴有脱肥症；盐碱危害重的地块，常出现成片的紫红色的“小老苗”，幼苗基部1～2片叶黄化干枯，严重时，幼苗点片枯死</string>
+			<key>fcount</key>
+			<integer>0</integer>
+			<key>id</key>
+			<integer>44</integer>
+			<key>img</key>
+			<string>/tech/150403/d6e3a7a8337a7ae658557dbedd7d296f.jpg</string>
+			<key>keywords</key>
+			<string>管理 土壤 弱苗 要点 造成 </string>
+			<key>rcount</key>
+			<integer>0</integer>
+			<key>tclass</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>3</integer>
+			<key>title</key>
+			<string>土壤板硬造成的弱苗由于土壤缺墒少气</string>
+			<key>user</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>count</key>
+			<integer>121</integer>
+			<key>description</key>
+			<string>青春587（小麦） p;【基本情况】通用型春小麦新品种"青春587"是青海省农科院作物所将外源谷子DNA通过花粉通道导入普通小麦品系108,于1996年在后代变异株中系统选育而成</string>
+			<key>fcount</key>
+			<integer>0</integer>
+			<key>id</key>
+			<integer>43</integer>
+			<key>img</key>
+			<string>/tech/default.jpg</string>
+			<key>keywords</key>
+			<string>青海省 品种 白色 种植 农科院 </string>
+			<key>rcount</key>
+			<integer>0</integer>
+			<key>tclass</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>3</integer>
+			<key>title</key>
+			<string>"青春587"属中熟品种</string>
+			<key>user</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>count</key>
+			<integer>138</integer>
+			<key>description</key>
+			<string>旱地小麦抗旱节水栽培技术 在同样降水条件下，增施肥料，尤其是有机肥和磷肥，能大幅度提高小麦单产，提高土壤水分利用率</string>
+			<key>fcount</key>
+			<integer>0</integer>
+			<key>id</key>
+			<integer>42</integer>
+			<key>img</key>
+			<string>/tech/150403/37ee4002cb5ff3a4b6fabd39208190d3.jpg</string>
+			<key>keywords</key>
+			<string>小麦 土壤水分 品种 播种 亩产 </string>
+			<key>rcount</key>
+			<integer>0</integer>
+			<key>tclass</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>3</integer>
+			<key>title</key>
+			<string>我县推广旱地小麦抗旱节水栽培技术48万亩</string>
+			<key>user</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>count</key>
+			<integer>129</integer>
+			<key>description</key>
+			<string>皖麦38的特征特性及高产栽培技术 根据皖麦38的高产实践分析，其高产栽培措施，适宜采取群体质量栽培技术，按照穗、粒、重并重的技术思路，在保证足穗的基础上，主攻大穗大粒，使穗、粒、重的优势均得到充分发挥，以形成合理的穗粒结构</string>
+			<key>fcount</key>
+			<integer>0</integer>
+			<key>id</key>
+			<integer>41</integer>
+			<key>img</key>
+			<string>/tech/150403/6b96da7844eaa225b1cfb1accd8e88dc.jpg</string>
+			<key>keywords</key>
+			<string>小麦 高产 品种 无效分蘖 品质 </string>
+			<key>rcount</key>
+			<integer>0</integer>
+			<key>tclass</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>3</integer>
+			<key>title</key>
+			<string>肥料运筹根据皖麦38的品种特性和小麦高产栽培理论</string>
+			<key>user</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>count</key>
+			<integer>114</integer>
+			<key>description</key>
+			<string>文山：优质小麦新品种文麦9号（99-1）示范推广成效显著 p;为了使该品种能及早在生产上得到推广应用，充分发挥其应有的经济社会效益，2006-2007年度文山州农科所在各级党委、政府和主管部门的领导和支持下，精心组织，周密安排，将现有的种子量全部安排到适宜推广的各个村寨，在文山、广南、砚山三县推广达10410亩，经2007年4月15日由州科技局主持，邀请州级有关专家对示范区进行实地测产验收，获平均单产279</string>
+			<key>fcount</key>
+			<integer>0</integer>
+			<key>id</key>
+			<integer>40</integer>
+			<key>img</key>
+			<string>/tech/150403/b9a898946fa3147a5e47e18ef7a518ed.jpg</string>
+			<key>keywords</key>
+			<string>品种 云南省 文山州 社会效益 充分发挥 </string>
+			<key>rcount</key>
+			<integer>0</integer>
+			<key>tclass</key>
+			<integer>1</integer>
+			<key>techclass</key>
+			<integer>3</integer>
+			<key>title</key>
+			<string>在文山、广南、砚山三县推广达10410亩</string>
+			<key>user</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>total</key>
+	<integer>20</integer>
+</dict>
+</plist>
